@@ -1,2 +1,0 @@
-# cred-build
-cred build
